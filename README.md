@@ -1,5 +1,6 @@
 # Gitチュートリアル
 
 - feature-A
-- TEST
 - fix-B
+- feature-C (Test)
+
